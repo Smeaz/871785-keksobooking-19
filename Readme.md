@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Павел Прилипов](https://up.htmlacademy.ru/javascript/19/user/871785).
-* Наставник: `Неизвестно`.
+* Наставник: [Павел Ерастов](https://up.htmlacademy.ru/javascript/19/user/1032917).
 
 ---
 
